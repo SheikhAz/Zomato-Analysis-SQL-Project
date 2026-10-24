@@ -1,0 +1,201 @@
+delivery_id,order_id,delivery_status,delivery_time,rider_id
+1,1,Delivered,16:45:00,19
+2,2,Delivered,09:00:00,16
+3,3,Delivered,16:15:00,15
+4,4,Delivered,08:45:00,25
+5,5,Order,13:30:00,18
+6,6,Delivered,17:45:00,6
+7,7,Order,08:15:00,23
+8,8,Order,14:30:00,10
+9,9,Order,07:00:00,7
+10,10,Order,08:30:00,23
+11,11,Delivered,07:15:00,20
+12,12,Delivered,02:00:00,21
+13,13,Order,04:15:00,15
+14,14,Delivered,15:15:00,12
+15,15,Order,06:00:00,14
+16,16,Delivered,13:45:00,2
+17,17,Delivered,02:30:00,14
+18,18,Delivered,15:00:00,5
+19,19,Delivered,03:30:00,13
+20,20,Delivered,22:45:00,3
+21,21,Delivered,23:00:00,4
+22,22,Order,08:45:00,18
+23,23,Order,20:15:00,11
+24,24,Delivered,03:00:00,24
+25,25,Delivered,22:15:00,14
+26,26,Delivered,22:45:00,19
+27,27,Delivered,21:15:00,1
+28,28,Order,06:15:00,17
+29,29,Delivered,21:45:00,5
+30,30,Not Delivered,02:00:00,20
+31,31,Delivered,18:45:00,9
+32,32,Delivered,15:30:00,5
+33,33,Delivered,13:45:00,13
+34,34,Delivered,15:30:00,12
+35,35,Delivered,22:00:00,9
+36,36,Delivered,02:00:00,20
+37,37,Delivered,17:30:00,17
+38,38,Delivered,10:45:00,23
+39,39,Delivered,13:00:00,2
+40,40,Delivered,18:00:00,2
+41,41,Delivered,08:45:00,17
+42,42,Not Delivered,10:00:00,1
+43,43,Delivered,11:45:00,21
+44,44,Delivered,00:30:00,17
+45,45,Not Delivered,06:45:00,19
+46,46,Not Delivered,18:45:00,6
+47,47,Not Delivered,19:00:00,1
+48,48,Not Delivered,19:00:00,18
+49,49,Delivered,03:45:00,3
+50,50,Delivered,11:45:00,7
+51,51,Order,20:15:00,11
+52,52,Delivered,08:15:00,7
+53,53,Delivered,22:00:00,17
+54,54,Delivered,20:45:00,23
+55,55,Order,06:15:00,16
+56,56,Delivered,08:15:00,24
+57,57,Delivered,00:00:00,8
+58,58,Delivered,01:30:00,8
+59,59,Not Delivered,02:30:00,14
+60,60,Not Delivered,06:30:00,4
+61,61,Order,17:15:00,23
+62,62,Delivered,08:45:00,24
+63,63,Delivered,07:30:00,19
+64,64,Delivered,12:45:00,22
+65,65,Delivered,14:15:00,2
+66,66,Delivered,07:00:00,4
+67,67,Delivered,05:30:00,10
+68,68,Delivered,08:30:00,10
+69,69,Delivered,14:30:00,21
+70,70,Delivered,21:30:00,20
+71,71,Delivered,00:30:00,3
+72,72,Delivered,09:15:00,24
+73,73,Delivered,05:45:00,14
+74,74,Order,19:30:00,21
+75,75,Delivered,16:30:00,22
+76,76,Delivered,01:15:00,9
+77,77,Delivered,11:15:00,21
+78,78,Delivered,04:00:00,2
+79,79,Delivered,19:45:00,9
+80,80,Delivered,19:30:00,20
+81,81,Delivered,13:45:00,5
+82,82,Delivered,03:30:00,7
+83,83,Not Delivered,14:00:00,5
+84,84,Delivered,07:15:00,10
+85,85,Delivered,06:30:00,17
+86,86,Not Delivered,17:30:00,5
+87,87,Delivered,21:30:00,13
+88,88,Delivered,10:00:00,17
+89,89,Order,13:30:00,13
+90,90,Delivered,06:45:00,25
+91,91,Delivered,11:30:00,14
+92,92,Order,00:15:00,21
+93,93,Delivered,05:15:00,8
+94,94,Order,18:15:00,20
+95,95,Delivered,16:45:00,3
+96,96,Delivered,04:45:00,1
+97,97,Not Delivered,11:45:00,16
+98,98,Delivered,16:30:00,4
+99,99,Delivered,11:15:00,20
+100,100,Delivered,21:45:00,16
+101,101,Delivered,09:30:00,20
+102,102,Delivered,17:00:00,11
+103,103,Delivered,12:15:00,21
+104,104,Delivered,10:15:00,13
+105,105,Order,03:45:00,25
+106,106,Delivered,22:45:00,3
+107,107,Not Delivered,09:45:00,22
+108,108,Delivered,16:15:00,23
+109,109,Delivered,02:30:00,3
+110,110,Order,01:45:00,16
+111,111,Delivered,23:15:00,17
+112,112,Delivered,22:15:00,23
+113,113,Delivered,22:00:00,17
+114,114,Delivered,10:45:00,5
+115,115,Delivered,19:00:00,21
+116,116,Delivered,22:45:00,16
+117,117,Order,12:00:00,10
+118,118,Order,15:00:00,13
+119,119,Delivered,00:00:00,23
+120,120,Order,03:30:00,18
+121,121,Delivered,00:30:00,9
+122,122,Delivered,15:45:00,22
+123,123,Order,06:30:00,17
+124,124,Order,02:00:00,25
+125,125,Not Delivered,06:45:00,23
+126,126,Order,23:00:00,9
+127,127,Delivered,07:00:00,16
+128,128,Not Delivered,10:00:00,5
+129,129,Not Delivered,13:15:00,4
+130,130,Delivered,17:45:00,6
+131,131,Delivered,18:45:00,16
+132,132,Order,13:45:00,1
+133,133,Not Delivered,02:15:00,12
+134,134,Delivered,21:00:00,14
+135,135,Not Delivered,05:15:00,16
+136,136,Order,11:45:00,14
+137,137,Delivered,11:00:00,12
+138,138,Delivered,08:30:00,10
+139,139,Not Delivered,20:15:00,25
+140,140,Delivered,17:15:00,4
+141,141,Delivered,13:00:00,14
+142,142,Delivered,09:30:00,19
+143,143,Order,17:30:00,21
+144,144,Delivered,16:30:00,17
+145,145,Not Delivered,23:00:00,1
+146,146,Not Delivered,10:15:00,22
+147,147,Delivered,06:30:00,16
+148,148,Delivered,07:30:00,20
+149,149,Order,04:00:00,8
+150,150,Not Delivered,02:45:00,12
+151,151,Delivered,21:15:00,3
+152,152,Delivered,00:30:00,18
+153,153,Delivered,01:30:00,4
+154,154,Delivered,02:00:00,5
+155,155,Delivered,21:00:00,5
+156,156,Not Delivered,03:15:00,12
+157,157,Delivered,20:45:00,15
+158,158,Delivered,18:30:00,13
+159,159,Delivered,18:00:00,12
+160,160,Delivered,22:30:00,12
+161,161,Delivered,15:30:00,1
+162,162,Delivered,01:00:00,17
+163,163,Delivered,11:45:00,18
+164,164,Delivered,06:30:00,24
+165,165,Delivered,06:00:00,20
+166,166,Not Delivered,07:45:00,20
+167,167,Order,11:45:00,16
+168,168,Not Delivered,11:45:00,22
+169,169,Not Delivered,04:45:00,10
+170,170,Delivered,15:30:00,19
+171,171,Delivered,01:30:00,16
+172,172,Delivered,02:45:00,22
+173,173,Not Delivered,08:30:00,13
+174,174,Delivered,04:30:00,3
+175,175,Order,20:00:00,24
+176,176,Delivered,14:45:00,2
+177,177,Delivered,23:15:00,6
+178,178,Order,05:30:00,3
+179,179,Delivered,11:15:00,18
+180,180,Not Delivered,05:45:00,17
+181,181,Delivered,05:30:00,21
+182,182,Order,06:15:00,17
+183,183,Delivered,11:45:00,16
+184,184,Order,04:00:00,21
+185,185,Order,04:45:00,9
+186,186,Delivered,15:30:00,11
+187,187,Delivered,17:15:00,23
+188,188,Delivered,00:15:00,8
+189,189,Delivered,00:45:00,9
+190,190,Delivered,00:15:00,4
+191,191,Delivered,09:45:00,9
+192,192,Delivered,07:00:00,15
+193,193,Delivered,11:45:00,15
+194,194,Delivered,02:15:00,11
+195,195,Not Delivered,11:15:00,5
+196,196,Delivered,06:00:00,17
+197,197,Not Delivered,08:45:00,11
+198,198,Delivered,07:30:00,17
+199,199,Delivered,21:30:00,11
+200,200,Not Delivered,20:30:00,9

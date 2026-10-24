@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "127.0.0.1",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "zomato_analysis_db",
+      "database": "zomato_analysis_db",
+      "username": "postgres",
+      "password": "gym12345"
+    }
+  ]
+}

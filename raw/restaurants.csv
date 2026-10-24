@@ -1,0 +1,81 @@
+restaurant_id,restaurant_name,city,opening_hours,closing_hours
+1,Spice Garden,Raipur,09:00:00,22:00:00
+2,Urban Tandoor,Bhilai,11:00:00,23:00:00
+3,The Curry House,Durg,10:30:00,22:30:00
+4,Green Leaf Cafe,Nagpur,08:00:00,21:00:00
+5,Royal Biryani,Hyderabad,11:30:00,23:30:00
+6,Coastal Flavours,Visakhapatnam,12:00:00,23:00:00
+7,Masala Junction,Indore,10:00:00,22:30:00
+8,Olive Bistro,Pune,09:30:00,22:00:00
+9,Saffron Table,Jaipur,11:00:00,23:00:00
+10,Namma Kitchen,Bengaluru,08:30:00,22:30:00
+11,Punjab Platter,Chandigarh,10:00:00,22:00:00
+12,Mango Tree Dining,Kochi,12:30:00,23:00:00
+13,Street Bowl,Mumbai,11:00:00,23:30:00
+14,The Dosa Spot,Chennai,07:00:00,21:30:00
+15,Himalayan Taste,Shimla,09:00:00,21:00:00
+16,Desi Dhaba,Bilaspur,10:30:00,22:30:00
+17,Cafe Monsoon,Raipur,08:00:00,21:00:00
+18,Lotus Wok,Kolkata,11:30:00,23:00:00
+19,Bombay Bistro,Mumbai,12:00:00,23:30:00
+20,Tandoori Trails,Lucknow,11:00:00,23:00:00
+21,Bean & Bite,Bhopal,07:30:00,21:30:00
+22,The Noodle Room,Gurugram,12:00:00,23:30:00
+23,Chaat Central,Varanasi,10:00:00,22:00:00
+24,Cedar Kitchen,Dehradun,09:30:00,21:30:00
+25,Sunrise Cafe,Ranchi,06:30:00,20:30:00
+26,Bengal Spice,Kolkata,11:00:00,23:00:00
+27,Konkan Kitchen,Panaji,12:30:00,23:00:00
+28,The Pizza Corner,Ahmedabad,11:00:00,23:00:00
+29,Royal Rasoi,Jodhpur,10:30:00,22:30:00
+30,Cafe Blossom,Mysuru,08:00:00,21:30:00
+31,Midnight Munch,Delhi,17:00:00,02:00:00
+32,Bamboo House,Itanagar,11:30:00,22:30:00
+33,Assamese Aroma,Guwahati,09:00:00,22:00:00
+34,The Rice Bowl,Patna,10:00:00,22:00:00
+35,Deccan Delights,Aurangabad,11:00:00,23:00:00
+36,Kebab Kingdom,Kanpur,12:00:00,23:30:00
+37,Cafe Cinnamon,Thiruvananthapuram,08:30:00,22:00:00
+38,The Burger Barn,Noida,11:00:00,23:00:00
+39,Pasta Palette,Surat,12:00:00,23:30:00
+40,Farmhouse Feast,Nashik,09:00:00,22:00:00
+41,Dakshin Dining,Coimbatore,07:30:00,21:30:00
+42,Lakeside Lounge,Udaipur,12:30:00,23:00:00
+43,Chilli Pepper,Amritsar,11:00:00,23:00:00
+44,The Waffle Works,Kochi,08:00:00,21:30:00
+45,Copper Chimney Cafe,Pune,10:30:00,22:30:00
+46,Biryani Boulevard,Hyderabad,11:30:00,23:30:00
+47,Kashmir Kitchen,Srinagar,10:00:00,21:30:00
+48,Citrus Cafe,Gandhinagar,08:30:00,21:30:00
+49,The Thali Room,Vadodara,11:00:00,23:00:00
+50,Peppercorn Place,Mangaluru,12:00:00,23:00:00
+51,Hilltop Cafe,Gangtok,08:00:00,21:00:00
+52,Tamarind House,Prayagraj,10:30:00,22:00:00
+53,The Wrap Station,Faridabad,11:00:00,23:00:00
+54,Coconut Grove,Puducherry,12:30:00,23:00:00
+55,Flame & Fork,Jabalpur,11:30:00,23:00:00
+56,The Samosa Stop,Gwalior,07:00:00,21:00:00
+57,Meadow Cafe,Kota,08:30:00,21:30:00
+58,Tikka Town,Agra,11:00:00,23:00:00
+59,The Ramen Table,Thane,12:00:00,23:30:00
+60,Basil & Thyme,Navi Mumbai,09:30:00,22:30:00
+61,Sundarban Kitchen,Siliguri,10:00:00,22:00:00
+62,The Paratha Place,Meerut,06:30:00,21:00:00
+63,Café Kaveri,Tiruchirappalli,08:00:00,21:30:00
+64,Eastern Spice,Bhubaneswar,11:00:00,22:30:00
+65,The Grill House,Cuttack,12:00:00,23:00:00
+66,Blue Orchid,Shillong,09:00:00,21:00:00
+67,The Pani Puri Hub,Raipur,16:00:00,23:00:00
+68,Mithas & More,Surat,09:00:00,22:00:00
+69,Urban Tadka,Delhi,11:30:00,23:30:00
+70,The Veggie Patch,Bengaluru,08:00:00,22:00:00
+71,Sizzle Station,Chennai,12:00:00,23:00:00
+72,Cafe Juniper,Jaipur,07:30:00,21:30:00
+73,The Fish Market Cafe,Kochi,12:30:00,23:00:00
+74,Mughal Courtyard,Lucknow,11:00:00,23:00:00
+75,The Bread Basket,Indore,06:00:00,21:00:00
+76,Firewood Pizzeria,Nagpur,11:30:00,23:30:00
+77,Gardenia Restaurant,Bhopal,10:00:00,22:00:00
+78,The Chutney Co.,Chandigarh,09:00:00,22:00:00
+79,Sizzle & Spice,Gurugram,12:00:00,23:30:00
+80,Sunset Terrace,Visakhapatnam,17:00:00,23:00:00
