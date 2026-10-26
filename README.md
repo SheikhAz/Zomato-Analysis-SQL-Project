@@ -16,7 +16,7 @@ functions, date/time functions, conditional aggregation, and subqueries.
 
 The Entity Relationship Diagram (ERD) below shows the relationships between customers, orders, restaurants, deliveries, and riders.
 
-![Restaurant Orders and Delivery Database ERD](eda.jpg)
+![Restaurant Orders and Delivery Database ERD](images/eda.jpg)
 
 ## Database Schema
 
